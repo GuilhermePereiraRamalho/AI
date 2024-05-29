@@ -1,0 +1,11 @@
+Based on the transaction status and details, my recommendation would be:
+
+{
+  "transaction_id": "9c",
+  "action": "Trigger Anti-Fraud Department",
+  "reason": "The transaction is marked as 'Possible Fraud' due to potential discrepancies identified by the AI-powered detection system. This could relate to the high transaction amount, location change, or deviation from normal buying pattern.",
+  "secondary_action": "Notify Customer",
+  "secondary_reason": "To confirm whether the customer recognizes the transaction at Esporte C for 'Sports Article' amounting R$1103, made on 2023-11-21 21:53:28, located in Porto Alegre - RS (Brazil)."
+}
+
+Classification of the type of fraud could potentially be "Unusual Spending Pattern".

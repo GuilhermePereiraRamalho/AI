@@ -1,0 +1,94 @@
+{
+    "transactions": [
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Esporte C",
+            "Time": "2023-11-21 21:53:28",
+            "Value": "R$1103",
+            "Product": "Sports Article",
+            "Location": "Porto Alegre - RS (Brazil)",
+            "Status": "Possible Fraud"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Sweet Bread Bakery",
+            "Time": "2023-11-21 21:39:28",
+            "Value": "R$21",
+            "Product": "Cakes",
+            "Location": "Porto Alegre - RS (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Easy Recharge",
+            "Time": "2023-11-21 21:35:28",
+            "Value": "R$50",
+            "Product": "50 Reais Recharge",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "GameStore C",
+            "Time": "2023-11-15 21:35:28",
+            "Value": "R$180",
+            "Product": "Digital Game",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "GameStore C",
+            "Time": "2023-11-10 15:54:28",
+            "Value": "R$152",
+            "Product": "Digital Game",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Golden Wheat Bakery",
+            "Time": "2023-11-10 13:48:28",
+            "Value": "R$11",
+            "Product": "Cakes",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Easy Recharge",
+            "Time": "2023-11-10 13:50:28",
+            "Value": "R$50",
+            "Product": "50 Reais Recharge",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Debit",
+            "Establishment": "Sweet Bread Bakery",
+            "Time": "2023-11-10 09:36:28",
+            "Value": "R$25",
+            "Product": "Breakfast",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "Bookstore A",
+            "Time": "2023-11-10 08:47:28",
+            "Value": "R$96",
+            "Product": "OpenAI Book",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        },
+        {
+            "Transaction Type": "Credit",
+            "Establishment": "GameStore D",
+            "Time": "2023-11-09 14:48:28",
+            "Value": "R$184",
+            "Product": "Strategy Game",
+            "Location": "São Paulo - SP (Brazil)",
+            "Status": "Approved"
+        }
+    ]
+}
